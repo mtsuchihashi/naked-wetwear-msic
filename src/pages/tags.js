@@ -44,7 +44,7 @@ const Tags = () => {
     return (
         <Page>
             <Helmet>
-                <title>Tags | The 404 Blog</title>
+                <title>Tags | Naked Wetwear Side: Misc.</title>
             </Helmet>
             <div className="container">
                 <h1>Tags</h1>

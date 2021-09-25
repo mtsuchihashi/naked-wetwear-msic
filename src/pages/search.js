@@ -16,7 +16,7 @@ function Authors() {
     return (
         <Page>
             <Helmet>
-                <title>Authors | The 404 Blog</title>
+                <title>Search | Naked Wetwear Side: Misc.</title>
             </Helmet>
             <div className="container">
                 <Search searchIndex={data.siteSearchIndex.index} />
