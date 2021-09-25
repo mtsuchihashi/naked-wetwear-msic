@@ -34,13 +34,13 @@ function Navbar() {
                         <NavLink class="nav-link" to = "/">Home</NavLink>
                     </li>
                     <li class="nav-item mr-5">
-                        <NavLink class="nav-link" to = "/blog/">Blog</NavLink>
+                        <NavLink class="nav-link" to = "/blog">Blog</NavLink>
                     </li>
                     <li class="nav-item mr-5">
-                        <NavLink class="nav-link" to = "/tags/">Tags</NavLink>
+                        <NavLink class="nav-link" to = "/tags">Tags</NavLink>
                     </li>
                     <li class="nav-item mr-5">
-                        <NavLink class="nav-link" to = "/search/">Search</NavLink>
+                        <NavLink class="nav-link" to = "/search">Search</NavLink>
                     </li>
                 </ul>
 
