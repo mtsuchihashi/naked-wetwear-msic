@@ -39,11 +39,36 @@ function About() {
                         </p>
 
                         <h5>Stay in touch <br /></h5>
-                        <SocialIcon url="https://github.com/mtsuchihashi" className="mr-4" />
                         <SocialIcon url="https://twitter.com/mtsuchi_tech/" className="mr-4" />
-                        <SocialIcon url="https://atcoder.jp/users/mtsuchihashi" className="mr-4" />
                     </div>
                 </div>
+
+                <div className="row my-5">
+                    <div className="col-lg-6">
+                        <img
+                            width="250"
+                            className="rounded-circle author-img mx-4 mb-4"
+                            src="https://pbs.twimg.com/profile_images/1426581332897918977/0FSVqT5l_400x400.jpg"
+                            alt="author-img2" />
+                    </div>
+                    <div className="col">
+                        <h3>
+                            a.k.a メイトリックス係長
+                        </h3>
+                        <h5> &#x264c; | &#x1F49E; &#x1F9A9; | &#x1F9EA; <br /></h5>
+                        <p>
+                            <br />
+
+                            SSRB所属.
+                            <br />
+                            推しとSSRBとSFが好き. あとメイドさんも.
+                        </p>
+
+                        <h5>Stay in touch <br /></h5>
+                        <SocialIcon url="https://twitter.com/matrixkakaricho/" className="mr-4" />
+                    </div>
+                </div>
+
             </div>
 
         </Page>
