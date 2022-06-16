@@ -53,7 +53,7 @@ function About() {
                     </div>
                     <div className="col">
                         <h3>
-                            a.k.a メイトリックス係長
+                            メイトリックス係長補佐
                         </h3>
                         <h5> &#x264c; | &#x1F49E; &#x1F9A9; | &#x1F9EA; <br /></h5>
                         <p>
